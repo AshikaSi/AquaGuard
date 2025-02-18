@@ -34,4 +34,4 @@ AquaGuard is a **simulated IoT-based water management system** that collects and
 - [Vishakha Khatri]
 
 ## 🔗 Links
-- **Live Demo**: (If deployed, add link here)
+- **Live Demo**: [(If deployed, add link here)](https://aquaguardd.netlify.app/)
